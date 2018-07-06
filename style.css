@@ -8,7 +8,7 @@ body{
   justify-content: centre;
 }
 .childOne{
-  width:20%;
+  width:40%;
   padding:4%;
   border:4px solid #ddd;
   margin:3%;
@@ -16,7 +16,7 @@ body{
   border-radius: 20px;
 }
 .childTwo{
-  width:20%;
+  width:40%;
   padding:4%;
   border:4px solid #ddd;
   margin:3%;
