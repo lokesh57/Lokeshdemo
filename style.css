@@ -8,16 +8,16 @@ body{
   justify-content: centre;
 }
 .childOne{
-  width:40%;
-  padding:4%;
+  width:10%;
+  padding:2%;
   border:4px solid #ddd;
   margin:3%;
   box-shadow: 3px 3px 3px #ddd;
   border-radius: 20px;
 }
 .childTwo{
-  width:40%;
-  padding:4%;
+  width:10%;
+  padding:2%;
   border:4px solid #ddd;
   margin:3%;
   box-shadow: 3px 3px 3px #ddd;
@@ -37,8 +37,8 @@ img{
     justify-content: centre;
   }
   .childOne{
-    width:40%;
-    padding:4%;
+    width:10%;
+    padding:2%;
     border:3px solid #ddd;
     margin:2%;
     box-shadow: 3px 3px 3px #ddd;
@@ -46,8 +46,8 @@ img{
 
   }
   .childTwo{
-    width:40%;
-    padding:4%;
+    width:10%;
+    padding:2%;
     border:3px solid #ddd;
     margin:3%;
     box-shadow: 3px 3px 3px #ddd;
