@@ -1,0 +1,45 @@
+{
+  "profile":{
+    "name":"lokesh",
+    "label":"full-stack developer",
+    "email":"lokeshvanaboina111@gmail.com"
+  },
+  "career":{
+    "info":"To pursue a challenging career and to be a part of  progressive development"
+  },
+  "education":[
+  {
+    "degree":"B.Tech(CSE)",
+    "institute":"Pvp siddhartha",
+    "data":["2016-20","99%"]
+  },
+  {
+    "degree":"Intermediate",
+    "institute":"Narayana",
+    "data":["2014-16","99%"]
+  },
+  {
+    "degree":"S.S.C",
+    "institute":"Gowthama",
+    "data":["2014","92%"]
+  }
+],
+  "skills":[
+    {
+      "title":"Languages:",
+      "content":["c","python","java","C#","c++","PHP","R"]
+    },
+    {
+    "title":"DataBase:",
+    "content":["SQL","MongoDB","Mysql"]
+  },
+  {
+    "title":"Web Technologies:",
+    "content":["HTML","CSS","JavaScript","PHP"]
+  },
+  {
+    "title":"FrameWorks:",
+    "content":["Django","codeIgniter"]
+  }
+  ]
+}
